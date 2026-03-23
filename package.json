@@ -1,6 +1,6 @@
 {
   "name": "vipro-image-assets",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Image Assets Library",
   "scripts": {
     "release": "commit-and-tag-version",
